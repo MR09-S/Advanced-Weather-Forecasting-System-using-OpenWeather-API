@@ -1,4 +1,4 @@
-# Advanced-Weather-Forecasting-System-using-OpenWeather-API
+# Weather Forecasting System using OpenWeather API
 
 COMPANY: CODTECH IT SOLUTIONS
 
