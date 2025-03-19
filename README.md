@@ -53,7 +53,7 @@ Ensure the following are installed on your system:
 
 ## Results
 
-![image](https://github.com/user-attachments/assets/3d258216-be25-4bc7-9d38-20177dc3bf7e)
+![Image](https://github.com/user-attachments/assets/24d89fca-ca50-40b3-a115-00fbb367c778)
 
 
 
@@ -70,8 +70,3 @@ String apiKey = "<YOUR_API_KEY>";
 ## Error Handling
 - If the city name is invalid or misspelled, the program will gracefully handle the error and prompt the user accordingly.
 - API errors such as rate limits or network failures are also managed to ensure smooth execution.
-
-
-## License
-This project is licensed under the **MIT License**.
-
